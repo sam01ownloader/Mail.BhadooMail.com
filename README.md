@@ -35,6 +35,8 @@ A **self-hosted** disposable mailbox  service (aka trash mail)  :cloud: :envelop
 
 ### How to Deploy to Heroku. (Pretty Simple)
 
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy)
+
 * Make an free account at [Heroku](https://heroku.com)
 * Fork this Repo.
 * Edit File i.e. here at secure/config.php
