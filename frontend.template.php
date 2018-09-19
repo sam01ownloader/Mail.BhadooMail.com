@@ -87,7 +87,7 @@ function niceDate($date) {
 <center>
 <br>
 <div style:"background-color: #ff715e;">
-<a href="//mail.bhadoomail.com" ><img border="0" alt="Bhadoo Mail" src="//bhadoomail.com/mail/logo.png" width="193" height="26"></a>
+<a href="/" ><img border="0" alt="Bhadoo Mail" src="//bhadoomail.com/mail/logo.png" width="193" height="26"></a>
 </div>
 </center>
 
