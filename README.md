@@ -5,7 +5,7 @@ A **self-hosted** disposable mailbox  service (aka trash mail)  :cloud: :envelop
 
 # This Repo is made to Directly Deploy to Heroku.com
 
-**Demo**: [BhadooMail](https://mail.bhadoomail.com/) 
+**Demo**: [BhadooMail Miror Site at Heroku](https://quiet-wave-15195.herokuapp.com/) 
 
 ![Screenshot](screenshot_example.png)
 
