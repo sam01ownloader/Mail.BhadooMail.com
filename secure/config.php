@@ -18,15 +18,15 @@ error_reporting(0);
 
 // Change IMAP settings (check SSL flags on http://php.net/manual/en/function.imap-open.php)
 $config['imap']['url'] = '{imap.gmail.com:993/imap/ssl}INBOX';
-$config['imap']['username'] = "";
-$config['imap']['password'] = "";
+$config['imap']['username'] = "sam";
+$config['imap']['password'] = "sam1234";
 
 // For gmail you can use '{imap.gmail.com:993/imap/ssl}INBOX'
 // and follow the troubleshooting at:
 // https://stackoverflow.com/a/25238515/79461
 
 // email domains, usually different from imap hostname:
-$config['domains'] = array('domain.com', 'domain1.com');
+$config['domains'] = array('loader.com', 'loader.gq');
 
 // When to delete old messages?
 $config['delete_messages_older_than'] = '30 days ago';
